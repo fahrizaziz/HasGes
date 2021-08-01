@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+## API
+
+http://bwa-cozy.herokuapp.com/recommended-spaces
+
 ## Demo
 
 ## Splash Screen
