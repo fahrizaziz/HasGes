@@ -20,3 +20,7 @@ http://bwa-cozy.herokuapp.com/recommended-spaces
 ## Home Screen
 
 ![Home](https://user-images.githubusercontent.com/63221929/127765552-3652c90a-2a46-4e2d-9f46-1f023432ba2c.png)
+
+## Detail Screen
+
+![Details](https://user-images.githubusercontent.com/63221929/127765883-7ca44206-7342-4055-9ab6-8a5bf9ea9bdb.png)
